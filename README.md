@@ -1,6 +1,6 @@
 # DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation
 
-### [[Project]]() [[Paper]](https://arxiv.org/abs/2501.13971) 
+### [[Project]]() [[Paper]](https://arxiv.org/abs/2606.31918) 
 
 > [**DriveWeaver: Point-Conditioned Video Inpainting for Controllable Vehicle Insertion in Autonomous Driving Simulation**](https://arxiv.org/abs/2501.13971),            
 > [Junzhe Jiang](https://selfspin.github.io/), [Zipei Ma](https://xiao10ma.github.io/), [Zijie Pan](https://mdarhdarz.github.io/), [Li Zhang](https://lzrobots.github.io)<sup>✉</sup>      
